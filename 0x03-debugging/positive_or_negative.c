@@ -1,4 +1,4 @@
-#include "maain.h"
+#include "main.h"
 
 /**
  * positive_or_negative - checks for positive or negative numbers
